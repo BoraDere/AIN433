@@ -1,0 +1,6 @@
+path: c:\Users\Bora\Desktop\HU\AIN433\Assignment 3\dataset
+train: c:\Users\Bora\Desktop\HU\AIN433\Assignment 3\dataset\train\images
+val: c:\Users\Bora\Desktop\HU\AIN433\Assignment 3\dataset\val\images
+test: c:\Users\Bora\Desktop\HU\AIN433\Assignment 3\dataset\test\images
+names:
+  0: car
